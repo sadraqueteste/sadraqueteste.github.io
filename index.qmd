@@ -1,0 +1,22 @@
+---
+title: "Sadraque E. F. Lucena"
+image: imagens/eu.jpeg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Lattes
+      href: http://lattes.cnpq.br/4104101783976483
+    - text: GitHub
+      href: https://github.com/sadraquelucena
+    - text: Email
+      href: mailto:sadraquelucena@academico.ufs.br
+---
+
+
+Olá! Sou um estatístico apaixonado por desvendar as histórias que os dados têm para contar. Minha grande motivação é transformar números em *insights* reveladores e soluções criativas. Tenho o grande prazer de ser Professor no Departamento de Estatística e Ciências Atuariais (DECAT) da Universidade Federal de Sergipe (UFS). É aqui que eu mergulho no universo da modelagem estatística e, a melhor parte, ajudo a formar a próxima geração de profissionais de Estatística, Ciência de Dados e Ciências Atuariais.
+
+
+

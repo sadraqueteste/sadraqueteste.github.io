@@ -1,0 +1,7 @@
+color:
+  foreground: "#ffffff"
+  background: "#004643"
+  primary: "#005b5b" # top navigation bar and for links
+typography: 
+  link: 
+    color: "#b2d8d8"
