@@ -1,0 +1,9 @@
+---
+title: Publicações
+listing: 
+  contents: publications.yml
+  type: table
+  sort-ui: false
+  filter-ui: false
+lang: pt
+---

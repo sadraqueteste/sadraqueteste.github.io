@@ -1,5 +1,5 @@
 ---
-title: "Disciplinas"
+title: "Disciplinas Ministradas"
 format: html
 ---
 

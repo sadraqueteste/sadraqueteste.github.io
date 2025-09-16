@@ -8,9 +8,10 @@ website:
     left:
       - href: topbar/sobremim.qmd
         text: "Sobre mim"
-    right: 
       - href: topbar/disciplinas.qmd
-        text: "Disciplinas"
+        text: "Disciplinas ministradas"
+      - href: topbar/publicacoes.qmd
+        text: "Publicações"
     
     tools:
       - href: https://github.com
