@@ -1,6 +1,14 @@
 [
   {
-    "listing": "/topbar/publicacoes.html",
+    "listing": "/disciplinas.html",
+    "items": []
+  },
+  {
+    "listing": "/publicacoes.html",
+    "items": []
+  },
+  {
+    "listing": "/projetos.html",
     "items": []
   }
 ]

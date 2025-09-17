@@ -1,5 +1,0 @@
----
-title: "Disciplinas Ministradas"
-format: html
----
-

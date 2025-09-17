@@ -1,23 +1,25 @@
 project:
   type: website
-  output-dir: docs
-
-website: 
-  title: "Sadraque Lucena"
-  navbar:
-    pinned: true
-    left:
-      - href: topbar/sobremim.qmd
-        text: "Sobre mim"
-      - href: topbar/ensino.qmd
-        text: "Ensino"
-      - href: topbar/publicacoes.qmd
-        text: "Publicações"
-    
-    tools:
-      - href: https://github.com
-        icon: github
+  output-dir: docs # diretório que conterá a saída com a página web
 
 format:
   html:
+    backgroundcolor: "#002626" # cor de fundo da página
+    fontcolor: "#e8ffeb"
+    linkcolor: "#cafcca"
+    fontsize: 20px
     page-layout: full # the page content takes up more of the page width
+
+website: 
+  title: "Sadraque Lucena"
+  page-footer: Feito com Quarto
+  navbar:
+    pinned: true
+    right:
+      - href: sobremim.qmd
+        text: "Sobre mim"
+      - href: disciplinas.qmd
+        text: "Disciplinas"
+      - href: publicacoes.qmd
+        text: "Publicações"
+

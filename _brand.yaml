@@ -1,0 +1,7 @@
+color:
+ #  foreground: "#e8ffeb"
+ # background: "#002626" # fundo da página
+  primary: "#003232" # top navigation bar and for links
+#typography: 
+#  link: 
+#    color: "#cafcca"

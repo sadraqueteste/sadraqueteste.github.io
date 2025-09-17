@@ -9,9 +9,11 @@ about:
   links:
     - text: Lattes
       href: http://lattes.cnpq.br/4104101783976483
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/sadraquelucena
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:sadraquelucena@academico.ufs.br
 ---
 
