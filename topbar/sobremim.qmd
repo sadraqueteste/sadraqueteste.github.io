@@ -17,7 +17,7 @@ Meu trabalho se concentra em entender e modelar incertezas. Tenho um interesse e
 Se você tem interesse em colaborar em alguma dessas áreas, entre em contato pelo e-mail *sadraquelucena@academico.ufs.br*!
 
 
-#### Em Sala de Aula
+### Em Sala de Aula
 
 Acredito que a Estatística é uma ferramenta poderosa para a tomada de decisões em qualquer área. Em minhas aulas, busco não apenas ensinar a teoria, mas também demonstrar como aplicá-la em contextos práticos e reais. Meu objetivo é que os alunos saiam das minhas disciplinas com a confiança para analisar dados de forma independente e comunicar seus resultados de maneira clara e eficaz.
 

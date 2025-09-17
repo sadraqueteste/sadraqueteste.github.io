@@ -8,8 +8,8 @@ website:
     left:
       - href: topbar/sobremim.qmd
         text: "Sobre mim"
-      - href: topbar/disciplinas.qmd
-        text: "Disciplinas ministradas"
+      - href: topbar/ensino.qmd
+        text: "Ensino"
       - href: topbar/publicacoes.qmd
         text: "Publicações"
     
