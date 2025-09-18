@@ -1,14 +1,16 @@
 [
   {
-    "listing": "/disciplinas.html",
+    "listing": "/ensino/index.html",
+    "items": [
+      "/ensino/2025-2/inferencia1/index.html"
+    ]
+  },
+  {
+    "listing": "/projetos.html",
     "items": []
   },
   {
     "listing": "/publicacoes.html",
-    "items": []
-  },
-  {
-    "listing": "/projetos.html",
     "items": []
   }
 ]

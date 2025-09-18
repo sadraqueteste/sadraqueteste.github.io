@@ -1,0 +1,20 @@
+---
+title: "Ensino"
+subtitle: "Disciplinas ministradas na Universidade Federal de Sergipe"
+listing:
+  - id: p2025-2
+    contents: p2025-2.yml
+    type: default
+    sort: "title"
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, description]
+    image-align: left
+    image-height: 110pt
+page-layout: full
+---
+
+## 2025–2
+
+:::{#p2025-2}
+:::

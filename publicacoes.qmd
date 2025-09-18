@@ -1,9 +1,14 @@
 ---
 title: Publicações
 listing: 
-  contents: publications.yml
+  contents: publicacoes.yml
   type: table
   sort-ui: false
   filter-ui: false
+  field-display-names: # define como os nomes dos campos aparecerão
+    title: "Título"
+    authors: "Autoria"
+    ano: "Ano"
+    journal: "Periódico"
 lang: pt
 ---

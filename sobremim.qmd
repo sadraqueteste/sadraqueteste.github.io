@@ -24,6 +24,6 @@ Acredito que a Estatística é uma ferramenta poderosa para a tomada de decisõe
 
 ### Links Rápidos
 
-- Minhas Publicações (link para Lattes ou Google Scholar)
+- [Minhas Publicações](publicacoes.qmd)
 
-- Disciplinas que Ministro
+- [Disciplinas que Ministro](ensino/index.qmd)

@@ -4,22 +4,27 @@ project:
 
 format:
   html:
-    backgroundcolor: "#002626" # cor de fundo da página
-    fontcolor: "#e8ffeb"
-    linkcolor: "#cafcca"
     fontsize: 20px
     page-layout: full # the page content takes up more of the page width
+    #theme: [solar, styles.scss]
+    theme: styles.scss
 
 website: 
   title: "Sadraque Lucena"
-  page-footer: Feito com Quarto
+  page-footer: |
+    <p style="text-align: center;">
+      Feito com 
+      <a href="https://quarto.org/" target="_blank" title="Quarto - an open-source scientific and technical publishing system">
+        <img src="/imagens/quarto-logo.png" alt="Logo do Quarto" style="height:19px; vertical-align:middle;">
+      </a>
+    </p>
   navbar:
     pinned: true
     right:
       - href: sobremim.qmd
         text: "Sobre mim"
-      - href: disciplinas.qmd
-        text: "Disciplinas"
+      - href: ensino/index.qmd
+        text: "Ensino"
       - href: publicacoes.qmd
         text: "Publicações"
 

@@ -1,0 +1,17 @@
+---
+title: "ESTAT0078 -- Inferência I"
+---
+
+
+
+## Ementa
+
+Amostras e distribuições amostrais. Estimação pontual e por intervalo. Estudo de estimadores mais comumente usados: método dos momentos, máxima verossimilhança, estimador de Bayes. Intervalos de confiança; métodos para construção de intervalos de confiança.
+
+## Objetivos
+
+Aprofundar os conhecimentos em estimação pontual e intervalar, bem como a avaliação de estimadores.
+
+## Metodologia
+
+Serão ministradas aulas teóricas expositivas; utilizados recursos visuais; resolução de exercícios em sala de aula; solicitação de atividades extraclasse.
